@@ -1,0 +1,10 @@
+
+twitter_admin:
+  consumer_key: "utOUi6f4iLSA3I9uEjDntCmO4"
+  consumer_secret: "ZQfGfiWlpf9JXmj9I6vy5l4JmWmOCPiWmD5T3lw1lePr1qVOHu"
+  oauth_token: "767318429342859264-eQc7tq3uI8Wl7iY581stdbVZQ7wNXTG"
+  oauth_token_secret: "Mgl8VVAcrNXcQX90PjXxin2vnIKP5UTnSmfdfVuAi2Pzd"
+
+env:
+  name: "production"
+  team: "g.prerak@sprinklr.com"
