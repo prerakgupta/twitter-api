@@ -1,12 +1,10 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This api uses the tweetstream gem to make a connection to the Twitter Streamng API and tracks all the tweets with a particulr hashtag.
 
-Things you may want to cover:
+Ruby version 2.0.0
 
-* Ruby version
-
+* Ruby version 2.0.0
+	
 * System dependencies
 
 * Configuration
@@ -21,8 +19,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
