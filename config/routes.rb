@@ -7,9 +7,8 @@ TwitterApi::Application.routes.draw do
    
    resources :crunch_tweets, only: [:index] do
       collection do
-        get :tag
+        post :tag
         get :update_stats
-        get :stop
       end
     end
 

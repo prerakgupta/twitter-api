@@ -9,6 +9,7 @@ gem 'tweetstream'
 #for debugging
 gem 'pry'
 
+#Multi threaded server
 gem 'thin'
 
 # Use sqlite3 as the database for Active Record
